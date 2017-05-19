@@ -1,0 +1,17 @@
+
+.App {
+    margin: 0 auto;
+    margin-top: 4rem;
+    width: 30rem;
+    background: white;
+    padding: 1rem;
+    border: 1px solid #dee2e6;
+}
+.App h1 {
+    margin-top: 0rem;
+    text-align: center;
+    font-weight: 300;
+    color: #495057;
+    font-size: 3rem;
+    margin-bottom: 0rem;
+}

@@ -1,0 +1,33 @@
+
+.TodoInsert {
+    width: 100%;
+    position: relative;
+}
+.TodoInsert input {
+    width: calc(100% - 5rem);
+    display: inline-block;
+    box-sizing: border-box;
+    font-size: 1rem;
+    height: 2rem;
+}
+.TodoInsert button {
+    width: 4.5rem;
+    font-size: 1rem;
+    outline: none;
+    border: none;
+    height: 2rem;
+    float: right;
+    border: 1px solid #ced4da;
+    border-radius: 2px;
+    color: #868e96;
+    background: white;
+    transition: all .3s;
+}
+.TodoInsert button:hover {
+    border: 1px solid #3bc9db;
+    color: #3bc9db;
+}
+.TodoInsert button:active {
+    border: 1px solid #1098ad;
+    color: #1098ad;
+}

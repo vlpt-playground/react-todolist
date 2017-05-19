@@ -1,0 +1,22 @@
+.TodoReset {
+    width: 100%;
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+    padding: 0.5rem;
+    background: white;
+    outline: none;
+    border: 1px solid #ced4da;
+    border-radius: 2px;
+    color: #868e96;
+    transition: all .3s;
+}
+
+.TodoReset:hover {
+    border: 1px solid #ff6b6b;
+    color: #ff6b6b;
+}
+
+.TodoReset:active {
+    border: 1px solid #c92a2a;
+    color: #c92a2a;
+}

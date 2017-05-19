@@ -1,0 +1,7 @@
+
+.TodoItemList {
+    border: 1px solid #f1f3f5;
+    list-style: none;
+    padding: 0;
+    margin-top: 0.5rem;
+}

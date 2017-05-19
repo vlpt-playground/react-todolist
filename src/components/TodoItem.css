@@ -1,0 +1,12 @@
+
+.TodoItem {
+    padding: 0.5rem;
+    color: #868e96;
+}
+.TodoItem:hover {
+    color: #343a40;
+    font-weight: 500;
+}
+.TodoItem + .TodoItem {
+    border-top: 1px solid #f1f3f5;
+}
